@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "code" : "LDPL",
+            "name" : "Labcorp Diagnostics Private Ltd.",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus, lacus ac varius ornare, neque eros sagittis libero, at hendrerit magna turpis ut lorem. In id est sed elit auctor ultrices. Quisque nec hendrerit tortor, vitae suscipit ex. Donec non justo a massa rutrum rutrum eu at tellus. Praesent luctus sapien tortor, ac accumsan nisl porta vitae. Vivamus efficitur, sapien non hendrerit aliquet, est est aliquam mauris, nec rutrum nisl erat ut neque. Suspendisse sit amet est sem. In quis mollis orci, ultricies pharetra eros. Mauris efficitur lectus aliquam sapien laoreet, euismod dignissim lacus pulvinar. Maecenas malesuada et risus et posuere. Vestibulum a turpis eget enim aliquam vestibulum ac nec arcu. Proin rhoncus risus in viverra tristique. ",
+            "location" : "xyz street",
+            "certification" : "nabl"
+
+        },
+        {
+            "code" : "PKL",
+            "name" : "PathKind Lab",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus, lacus ac varius ornare, neque eros sagittis libero, at hendrerit magna turpis ut lorem. In id est sed elit auctor ultrices. Quisque nec hendrerit tortor, vitae suscipit ex. Donec non justo a massa rutrum rutrum eu at tellus. Praesent luctus sapien tortor, ac accumsan nisl porta vitae. Vivamus efficitur, sapien non hendrerit aliquet, est est aliquam mauris, nec rutrum nisl erat ut neque. Suspendisse sit amet est sem. In quis mollis orci, ultricies pharetra eros. Mauris efficitur lectus aliquam sapien laoreet, euismod dignissim lacus pulvinar. Maecenas malesuada et risus et posuere. Vestibulum a turpis eget enim aliquam vestibulum ac nec arcu. Proin rhoncus risus in viverra tristique. ",
+            "location" : "abc street",
+            "certification" : "nabl"
+
+        },
+        {
+            "code" : "NH",
+            "name" : "Noida Helath care",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus, lacus ac varius ornare, neque eros sagittis libero, at hendrerit magna turpis ut lorem. In id est sed elit auctor ultrices. Quisque nec hendrerit tortor, vitae suscipit ex. Donec non justo a massa rutrum rutrum eu at tellus. Praesent luctus sapien tortor, ac accumsan nisl porta vitae. Vivamus efficitur, sapien non hendrerit aliquet, est est aliquam mauris, nec rutrum nisl erat ut neque. Suspendisse sit amet est sem. In quis mollis orci, ultricies pharetra eros. Mauris efficitur lectus aliquam sapien laoreet, euismod dignissim lacus pulvinar. Maecenas malesuada et risus et posuere. Vestibulum a turpis eget enim aliquam vestibulum ac nec arcu. Proin rhoncus risus in viverra tristique. ",
+            "location" : "xyz street",
+            "certification" : "iso"
+
+        },
+        {
+            "code" : "KD",
+            "name" : "Krishna Diagnostics",
+            "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus, lacus ac varius ornare, neque eros sagittis libero, at hendrerit magna turpis ut lorem. In id est sed elit auctor ultrices. Quisque nec hendrerit tortor, vitae suscipit ex. Donec non justo a massa rutrum rutrum eu at tellus. Praesent luctus sapien tortor, ac accumsan nisl porta vitae. Vivamus efficitur, sapien non hendrerit aliquet, est est aliquam mauris, nec rutrum nisl erat ut neque. Suspendisse sit amet est sem. In quis mollis orci, ultricies pharetra eros. Mauris efficitur lectus aliquam sapien laoreet, euismod dignissim lacus pulvinar. Maecenas malesuada et risus et posuere. Vestibulum a turpis eget enim aliquam vestibulum ac nec arcu. Proin rhoncus risus in viverra tristique. ",
+            "location" : "pqr street",
+            "certification" : "nabh"
+
+        }
+    ]
+  }
